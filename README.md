@@ -1,6 +1,8 @@
 
 ### Eu sou o Iago 🙋
 
+Entusiasta da Engenharia Mecânica e atualmente em processo de transição de carreira. Atualmente cursando Desenvolvimento de Software back-end na Cubos Academy.
+
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-aso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.iago.aso/)
 
